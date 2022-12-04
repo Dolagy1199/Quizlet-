@@ -1,0 +1,69 @@
+[
+      
+    {
+        "title" :"Which of the following is correct about JavaScript?",
+        "answer_1" :"JavaScript is an Object-Based language" ,
+        "answer_2" :"JavaScript is Assembly-language" ,
+        "answer_3" :"JavaScript is an Object-Oriented language" ,
+        "answer_4" :"JavaScript is a High-level language" ,
+        "right_answer" :"JavaScript is a High-level language"
+    },
+    {
+        "title" :" Which of the following is not javascript data types?",
+        "answer_1" :"Which of the following is not javascript data types?" ,
+        "answer_2" :"Undefined type" ,
+        "answer_3" :"Number type" ,
+        "answer_4" :" All of the mentioned" ,
+        "right_answer" :" All of the mentioned"
+    },
+    {
+        "title" :"Which of the following is the property that is triggered in response to JS errors?",
+        "answer_1" :"onclick" ,
+        "answer_2" :"onerror" ,
+        "answer_3" :"onmessage" ,
+        "answer_4" :"onexception" ,
+        "right_answer" :"onerror"
+    },
+    {
+        "title" :"Which of the following is not a framework?",
+        "answer_1" :" JavaScript .NET" ,
+        "answer_2" :"JavaScript" ,
+        "answer_3" :" Cocoa JS" ,
+        "answer_4" : "jQuery" ,
+        "right_answer" :"JavaScript"
+    },
+    {
+        "title" :"What is the basic difference between JavaScript and Java?",
+        "answer_1" :"Functions are considered as fields" ,
+        "answer_2" :"Functions are values, and there is no hard distinction " ,
+        "answer_3" :"Variables are specific" ,
+        "answer_4" : "There is no difference" ,
+        "right_answer" :"Functions are considered as fields"
+    },
+    {
+        "title" :"Which of the following scoping type does JavaScript use?",
+        "answer_1" :"Sequential" ,
+        "answer_2" :"Segmental" ,
+        "answer_3" :"Lexical" ,
+        "answer_4" :"Literal" ,
+        "right_answer" :"Sequential"
+    },
+    {
+        "title" :"Which of the following object is the main entry point to all client-side JavaScript features and APIs?",
+        "answer_1" :"Position" ,
+        "answer_2" :"Window" ,
+        "answer_3" :"Standard" ,
+        "answer_4" :"Location" ,
+        "right_answer" :"Window"
+    },
+    {
+        "title" :"Which of the following can be used to call a JavaScript Code Snippet?",
+        "answer_1" :"Function/Method" ,
+        "answer_2" :"Preprocessor" ,
+        "answer_3" :"Triggering Event" ,
+        "answer_4" :"RMI" ,
+        "right_answer" :"Function/Method"
+    }
+
+
+]

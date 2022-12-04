@@ -1,0 +1,96 @@
+[
+    {
+        "title" :"What is CSS?",
+        "answer_1" :"CSS is a style sheet language" ,
+        "answer_2" :"CSS is designed to separate the presentation" ,
+        "answer_3" :"CSS is the language used to style the HTML documents" ,
+        "answer_4" :"All of the mentioned" ,
+        "right_answer" :"All of the mentioned"
+    },
+    {
+        "title" :"Which of the following tag is used to embed css in html page?",
+        "answer_1" :"<css>" ,
+        "answer_2" :"<!DOCTYPE html>" ,
+        "answer_3" :"<script>" ,
+        "answer_4" :"<style>" ,
+        "right_answer" :"<style>"
+    },
+    {
+        "title" :"Which of the following CSS selectors are used to specify a group of elements?",
+        "answer_1" :"tag" ,
+        "answer_2" :"id" ,
+        "answer_3" :"class" ,
+        "answer_4" :"both class and tag" ,
+        "right_answer" :"both class and tag"
+    },
+    {
+        "title" :"Which of the following has introduced text, list, box, margin, border, color, and background properties?",
+        "answer_1" :"HTML" ,
+        "answer_2" :"PHP" ,
+        "answer_3" :"CSS" ,
+        "answer_4" :"Ajax" ,
+        "right_answer" :"CSS"
+    },
+    {
+        "title" :"Which of the following CSS framework is used to create a responsive design?",
+        "answer_1" :"django" ,
+        "answer_2" :"rails" ,
+        "answer_3" :"larawell" ,
+        "answer_4" :"bootstrap" ,
+        "right_answer" :"bootstrap"
+    },
+    {
+        "title" :"Which of the following type of HTML tag is used to define an internal style sheet?",
+        "answer_1" :"<script>" ,
+        "answer_2" :"<link>" ,
+        "answer_3" :"<class>" ,
+        "answer_4" : "<style>" ,
+        "right_answer" :"<style>"
+    },
+    {
+        "title" :"In HTML, how do we insert an image?",
+        "answer_1" :"<img src = “jtp.png” />" ,
+        "answer_2" :"<img href = “jtp.png” />" ,
+        "answer_3" :"<img link = “jtp.png” />" ,
+        "answer_4" :"<img url = “jtp.png” />" ,
+        "right_answer" :" <img src = “jtp.png” />"
+    },
+    {
+        "title" :"Which of the following CSS property is used to make the text bold?",
+        "answer_1" :"text-decoration: bold" ,
+        "answer_2" :"font-weight: bold" ,
+        "answer_3" :"font-weight: bold" ,
+        "answer_4" :"text-align: bold" ,
+        "right_answer" :"font-weight: bold>"
+    },
+    {
+        "title" :"Which of the following CSS property can be used to set the image as a border instead of the border style?",
+        "answer_1" :"background-image-source" ,
+        "answer_2" :"background-image" ,
+        "answer_3" :"border-image-source" ,
+        "answer_4" :"border-image" ,
+        "right_answer" :"background-image>"
+    },
+    {
+        "title" :"Which of the following CSS property defines the different properties of all four sides of an element’s border in a single declaration?",
+        "answer_1" :"border-collapse" ,
+        "answer_2" :"border-width" ,
+        "answer_3" :"padding" ,
+        "answer_4" :"border" ,
+        "right_answer" :"border-width"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

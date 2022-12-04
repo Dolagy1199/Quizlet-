@@ -1,0 +1,96 @@
+[
+    {
+        "title" :"Why We Use <br> Element",
+        "answer_1" :"To Make Text Bold" ,
+        "answer_2" :"To Make Text Italic" ,
+        "answer_3" :"To Add BreakLine" ,
+        "answer_4" :"To Make Horizontal Line" ,
+        "right_answer" :"To Add BreakLine"
+    },
+    {
+        "title" :"Why We Use <hr> Element",
+        "answer_1" :"To Make Text Bold" ,
+        "answer_2" :"To Make Text Italic" ,
+        "answer_3" :"To Add BreakLine" ,
+        "answer_4" :"To Make Horizontal Line" ,
+        "right_answer" :"To Make Horizontal Line"
+    },
+    {
+        "title" :"Why We Use <b> Element",
+        "answer_1" :"To Make Text Bold" ,
+        "answer_2" :"To Make Text Italic" ,
+        "answer_3" :"To Add BreakLine" ,
+        "answer_4" :"To Make Horizontal Line" ,
+        "right_answer" :"To Make Text Bold"
+    },
+    {
+        "title" :"Which tag do we use in HTML for inserting a line-break?",
+        "answer_1" :"<a>" ,
+        "answer_2" :"<b>" ,
+        "answer_3" :"<br>" ,
+        "answer_4" :"<pre>" ,
+        "right_answer" :"<br>"
+    },
+    {
+        "title" :"Which of these elements in HTML can be used for making a text bold?",
+        "answer_1" :" <a>" ,
+        "answer_2" :"<pre>" ,
+        "answer_3" :"<br>" ,
+        "answer_4" :"<b>" ,
+        "right_answer" :"<b>"
+    },
+    {
+        "title" :"Which tag is used in HTML5 for the initialization of the document type?",
+        "answer_1" :"<Doctype HTML>" ,
+        "answer_2" :"<!DOCTYPE html>" ,
+        "answer_3" :"<Doctype>" ,
+        "answer_4" : "</Doctype html>" ,
+        "right_answer" :"<!DOCTYPE html>"
+    },
+    {
+        "title" :"In HTML, how do we insert an image?",
+        "answer_1" :"<img src = “jtp.png” />" ,
+        "answer_2" :"<img href = “jtp.png” />" ,
+        "answer_3" :"<img link = “jtp.png” />" ,
+        "answer_4" :"<img url = “jtp.png” />" ,
+        "right_answer" :" <img src = “jtp.png” />"
+    },
+    {
+        "title" :"In HTML, which of these would add a background color?",
+        "answer_1" :"<marquee bgcolor = “plum”>" ,
+        "answer_2" :"<marquee bg color: “plum”>" ,
+        "answer_3" :"<marquee color = “plum”>" ,
+        "answer_4" :"<marquee bg-color = “plum”>" ,
+        "right_answer" :"<marquee bgcolor = “plum”>"
+    },
+    {
+        "title" :"What is the correct way of sending mail in HTML?",
+        "answer_1" :"<mail ab@b</mail>" ,
+        "answer_2" :"<a href = “ab@b”>" ,
+        "answer_3" :"<a href = “mailto: ab@b”>" ,
+        "answer_4" :" None of the above" ,
+        "right_answer" :"<a href = “mailto: ab@b”>"
+    },
+    {
+        "title" :"In HTML, the tags are",
+        "answer_1" :"in upper case" ,
+        "answer_2" :" case-sensitive" ,
+        "answer_3" :"in lowercase" ,
+        "answer_4" :"not case sensitive" ,
+        "right_answer" :" not case sensitive"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
